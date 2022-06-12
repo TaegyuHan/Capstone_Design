@@ -16,12 +16,14 @@
 
 
 ### UI
+메인 UI 화면
 <div align="center">
   <img src="./img/dash.png"><br>
 </div>
 
 
 ### Folder Path
+폴더 구조(경로)
 ```
 
 │  README.md
